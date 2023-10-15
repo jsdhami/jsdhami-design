@@ -183,6 +183,9 @@
 <loc>http://localhost:4000/privacy-policy</loc>
 </url>
 <url>
+<loc>http://localhost:4000/store</loc>
+</url>
+<url>
 <loc>http://localhost:4000/page2/</loc>
 </url>
 <url>
